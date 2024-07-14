@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8be92052-c2c6-42c5-9142-e7897b91dc74)# Image-Backgroud-Removal-and-Changing
+Image-Backgroud-Removal-and-Changing
 Background was removed from images and new backgrounds were added.
 
 -Why is it done?
